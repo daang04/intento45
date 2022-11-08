@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792159714906",
+    "project_id": "biodi1-1ec35",
+    "storage_bucket": "biodi1-1ec35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792159714906:android:b18178326264eb9ea9e263",
+        "android_client_info": {
+          "package_name": "com.example.intento45"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792159714906-3pmf17i6902oqkmuvidbr1u2m3tb6m43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqjBPsDwnNng8FZb1xTPjwqABAQxJaM_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792159714906-3pmf17i6902oqkmuvidbr1u2m3tb6m43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
